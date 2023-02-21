@@ -19,7 +19,7 @@
 
 options {
     STATIC=false;
-    IGNORE_CASE=true;
+    IGNORE_CASE=false;
 }
 
 PARSER_BEGIN(Lexer)
